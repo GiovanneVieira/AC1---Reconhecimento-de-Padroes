@@ -1,4 +1,4 @@
-# AC1 — Reconhecimento de Padrões: Regressão Linear do Crescimento de Milho 🌽
+# AC1 — Reconhecimento de Padrões: Regressão Linear do Crescimento de Milho 
 
 Atividade continua (AC1) da disciplina de **Reconhecimento de Padrões**: projeto de Machine Learning completo — da aquisição e pré-processamento dos dados ao treinamento de um modelo de **Regressão Linear Múltipla** e à avaliação/interpretação das métricas de desempenho.
 
